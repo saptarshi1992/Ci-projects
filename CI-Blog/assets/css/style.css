@@ -1,0 +1,31 @@
+.post-date{
+	background:#f4f4f4;
+	padding:4px;
+	margin:3px 0;
+	display:block;
+	width:100%
+}
+.img{
+	width:100%;
+}
+.li-space {
+    display:inline;
+    padding: 10px 40px;
+}
+.pagination-links{
+	margin:30px 0;
+}
+
+.pagination-links strong{
+	padding: 8px 13px;
+	margin:5px;
+	background: #f4f4f4;
+	border: 1px #ccc solid;
+}
+
+a.pagination-links{
+	padding: 8px 13px;
+	margin:5px;
+	background: #f4f4f4;
+	border: 1px #ccc solid;
+}
